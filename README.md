@@ -2,6 +2,7 @@
 
 شاخص توده بدنی (BMI)، مخفف عبارت انگلیسی Body Mass Index است که برای تعیین رده وزنی افراد مختلف به‌کار گرفته می‌شود. فرمول این شاخص از تقسیم وزن فرد برحسب کیلوگرم بر مجذور قد برحسب متر به‌دست می‌آید.
 
+![alt text](https://github.com/mohsen-ahanj/bmi_blue/blob/main/appstore.png)
 
 ## Getting Started
 
